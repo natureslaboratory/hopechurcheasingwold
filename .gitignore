@@ -1,0 +1,9 @@
+/*
+!/wp-content
+/wp-content/*
+!/wp-content/themes
+/wp-content/themes/*
+!/wp-content/themes/hopechurch
+!.gitignore 
+!.cpanel.yml
+/wp-content/themes/hopechurch/node_modules
