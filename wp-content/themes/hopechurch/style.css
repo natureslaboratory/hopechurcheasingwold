@@ -1075,10 +1075,10 @@ ul.menu li.current_page_item a{
 	padding-bottom: 4rem;
 }
 
-article {
+/* article {
 	max-width: 1000px;
 	margin: 0 auto;
-}
+} */
 
 .wp-block-embed__wrapper {
 	margin: 3rem 0;
